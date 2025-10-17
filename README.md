@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/ai-ambient.svg" width="100%" height="200" alt="AI Neural Network Background">
-</div>
+
 
 <h1 align="center"> Snehal </h1>
 <h3 align="center">Data science  , Computer Engineer , Innovator</h3>
@@ -34,7 +32,7 @@
 ### 📊 ** Stats & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharThanvi1990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehal6542&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharThanvi1990&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&border_radius=15" height="180"/>
 </div>
 
@@ -44,16 +42,6 @@
 
 ---
 
-### 🐍 Snake Animation
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharThanvi1990/TusharThanvi1990/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharThanvi1990/TusharThanvi1990/output/github-contribution-grid-snake.svg" />
-  <img alt="github contributions snake" src="https://raw.githubusercontent.com/TusharThanvi1990/TusharThanvi1990/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
----
 
 ### 🌐  Network Connections
 
