@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/snehal-khandare-568127220/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://leetcode.com/TusharThanvi1990/">
+  <a href="https://leetcode.com/snehal6542/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" />
   </a>
   <a href="mailto:Tusharrt19069@gmail.com">
