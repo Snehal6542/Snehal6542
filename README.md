@@ -6,9 +6,8 @@
 <h3 align="center">AI/ML Researcher • Data Scientiest • Storyteller</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Neural+Networks+%7C+Deep+Learning+%7C+AI+🧠;Scalable+Systems+%7C+Cloud+Architecture+☁️;Machine+Learning+%7C+Data+Science+📊;Innovation+Through+Intelligent+Code+✨" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Neural+Networks+meet+Narratives+⚡;Systems+that+Scale,+Models+that+Learn+🚀;Transforming+Ideas+into+Intelligent+Solutions+💡;Building+the+Future,+One+Algorithm+at+a+Time+🌟" alt="Typing Animation">
 </div>
-
 ### 🧠 Core Knowledge Graph
 
 <div align="center">
