@@ -1,11 +1,13 @@
-<h1 align="center"> Snehal </h1>
-<h3 align="center">Data science  , Computer Engineer , Innovator</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=800&lines=Neural+Networks+meet+Narratives+⚡;Systems+that+Scale%2C+Models+that+Learn+🚀;Transforming+Ideas+into+Intelligent+Solutions+💡;Building+the+Future%2C+One+Algorithm+at+a+Time+🌟" alt="Typing Animation">
+  <img src="./assets/ai-ambient.svg" width="100%" height="200" alt="AI Neural Network Background">
 </div>
 
----
+<h1 align="center"> Snehal Khandare </h1>
+<h3 align="center">AI/ML Researcher • Data Scientiest • Storyteller</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Neural+Networks+%7C+Deep+Learning+%7C+AI+🧠;Scalable+Systems+%7C+Cloud+Architecture+☁️;Machine+Learning+%7C+Data+Science+📊;Innovation+Through+Intelligent+Code+✨" alt="Typing Animation">
+</div>
 
 ### 🧠 Core Knowledge Graph
 
@@ -15,22 +17,37 @@
 
 <div align="center">
   
-**🤖 AI/ML Stack:** `TensorFlow` • `PyTorch` • `Scikit-learn` • `Hugging Face` • `OpenCV` • `NLTK` • `spaCy`
+*🤖 AI/ML Stack:* TensorFlow • PyTorch • Scikit-learn • Hugging Face • OpenCV • NLTK • spaCy
 
-**⚙️ Backend & Systems:** `Python` • `Node.js` • `C++` • `Java` • `Flask` • `FastAPI` • `NestJS` • `Express`
+*⚙ Backend & Systems:* Python • Node.js • C++ • Java • Flask • FastAPI • NestJS • Express
 
-**☁️ Cloud & DevOps:** `AWS` • `GCP` • `Docker` • `Kubernetes` • `CI/CD` • `Terraform` • `Linux`
+*☁ Cloud & DevOps:* AWS • GCP • Docker • Kubernetes • CI/CD • Terraform • Linux
 
-**📊 Data & Databases:** `PostgreSQL` • `MongoDB` • `Redis` • `Apache Spark` • `Elasticsearch` • `Vector DBs`
+*📊 Data & Databases:* PostgreSQL • MongoDB • Redis • Apache Spark • Elasticsearch • Vector DBs
 
 </div>
 
+---
 
+### 🏆 LeetCode Training
+
+<div align="center">
+  <a href="https://leetcode.com/snehal6542/">
+  <img src="https://leetcard.jacoblin.cool/TusharThanvi1990?theme=dark&font=JetBrains%20Mono&ext=heatmap&heatmap=0d1117,00ff99,00cc66,009944,006622" />
+
+
+  </a>
+  <br>
+<!--   <img src="https://img.shields.io/badge/Problems%20Solved-500+-00F5D4?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contest%20Rating-1800+-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" /> -->
+</div>
+
+---
 
 ### 📊 ** Stats & Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehal6542&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharThanvi1990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharThanvi1990&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&border_radius=15" height="180"/>
 </div>
 
@@ -40,36 +57,37 @@
 
 ---
 
+---
 
 ### 🌐  Network Connections
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/snehal-khandare-568127220/">
+  <a href="www.linkedin.com/in/snehal-khandare-568127220/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://leetcode.com/snehal6542/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" />
   </a>
-  <a href="mailto:Tusharrt19069@gmail.com">
+  <a href="mailto:snehalkhandare6542@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://github.com/TusharThanvi1990">
+  <a href="https://github.com/Snehal6542">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 </div>
 
 ---
 
-### 🎯 **AI Console Interface**
+### 🎯 *AI Console Interface*
 
 ```python
 >>> import neural_networks as nn
 >>> from creativity import Storytelling, CinematicCoding
 >>> from research import DeepLearning, NLP, ComputerVision
 
-class Snehal(nn.Researcher, nn.Engineer):
-    def __init__(self):
-        super().__init__()
+class SnehalKhandare(nn.Researcher, nn.Engineer):
+    def _init_(self):
+        super()._init_()
         self.expertise = {
             'ai_ml': ['Deep Learning', 'NLP', 'Computer Vision', 'MLOps'],
             'backend': ['Python', 'Node.js', 'Microservices', 'Distributed Systems'],
@@ -84,14 +102,14 @@ class Snehal(nn.Researcher, nn.Engineer):
         solution = self.apply_ai(challenge) + self.engineering_mindset(challenge)
         return f"Innovative solution with {solution.efficiency}% optimization"
     
-    def __str__(self):
+    def _str_(self):
         return f"🤖 AI Researcher | 💻 Systems Builder | 📖 Story Weaver"
 
 # Initialize the neural network
-tushar = TusharThanvi()
-print(f"Status: {tushar.status}")
-print(f"Mission: {tushar.research_focus}")
-print(tushar)
+snehal = SnehalKhandare()
+print(f"Status: {snehal.status}")
+print(f"Mission: {snehal.research_focus}")
+print(snehal)
 
 >>> Output: 
 >>> Status: Always learning, always building 🚀
