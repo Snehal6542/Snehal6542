@@ -1,13 +1,12 @@
-<div align="center">
-  <img src="./assets/ai-ambient.svg" width="100%" height="200" alt="AI Neural Network Background">
-</div>
+<h1 align="center">👋 Hi, I'm Snehal Khandare</h1>
+<h3 align="center">AI/ML Researcher • Data Scientist • Storyteller</h3>
 
-<h1 align="center"> Snehal Khandare </h1>
-<h3 align="center">AI/ML Researcher • Data Scientiest • Storyteller</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Neural+Networks+meet+Narratives+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Neural+Networks+meet+Narratives+⚡;Systems+that+Scale,+Models+that+Learn+🚀;Transforming+Ideas+into+Intelligent+Solutions+💡;Building+the+Future,+One+Algorithm+at+a+Time+🌟" alt="Typing Animation">
-</div>
+---
+
 ### 🧠 Core Knowledge Graph
 
 <div align="center">
@@ -16,13 +15,13 @@
 
 <div align="center">
   
-*🤖 AI/ML Stack:* TensorFlow • PyTorch • Scikit-learn • Hugging Face • OpenCV • NLTK • spaCy
+**🤖 AI/ML Stack:** TensorFlow • PyTorch • Scikit-learn • Hugging Face • OpenCV • NLTK • spaCy
 
-*⚙ Backend & Systems:* Python • Node.js • C++ • Java • Flask • FastAPI • NestJS • Express
+**⚙️ Backend & Systems:** Python • Node.js • C++ • Java • Flask • FastAPI • NestJS • Express
 
-*☁ Cloud & DevOps:* AWS • GCP • Docker • Kubernetes • CI/CD • Terraform • Linux
+**☁️ Cloud & DevOps:** AWS • GCP • Docker • Kubernetes • CI/CD • Terraform • Linux
 
-*📊 Data & Databases:* PostgreSQL • MongoDB • Redis • Apache Spark • Elasticsearch • Vector DBs
+**📊 Data & Databases:** PostgreSQL • MongoDB • Redis • Apache Spark • Elasticsearch • Vector DBs
 
 </div>
 
@@ -32,36 +31,29 @@
 
 <div align="center">
   <a href="https://leetcode.com/snehal6542/">
-  <img src="https://leetcard.jacoblin.cool/TusharThanvi1990?theme=dark&font=JetBrains%20Mono&ext=heatmap&heatmap=0d1117,00ff99,00cc66,009944,006622" />
-
-
+    <img src="https://leetcard.jacoblin.cool/snehal6542?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
   </a>
-  <br>
-<!--   <img src="https://img.shields.io/badge/Problems%20Solved-500+-00F5D4?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contest%20Rating-1800+-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" /> -->
 </div>
 
 ---
 
-### 📊 ** Stats & Activity**
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharThanvi1990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharThanvi1990&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehal6542&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&border_radius=15" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehal6542&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&border_radius=15" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharThanvi1990&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF&border_radius=15" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehal6542&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF&border_radius=15" width="400"/>
 </div>
 
 ---
 
----
-
-### 🌐  Network Connections
+### 🌐 Network Connections
 
 <div align="center">
-  <a href="www.linkedin.com/in/snehal-khandare-568127220/">
+  <a href="https://www.linkedin.com/in/snehal-khandare-568127220/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="https://leetcode.com/snehal6542/">
@@ -77,7 +69,7 @@
 
 ---
 
-### 🎯 *AI Console Interface*
+### 🎯 AI Console Interface
 
 ```python
 >>> import neural_networks as nn
@@ -85,8 +77,8 @@
 >>> from research import DeepLearning, NLP, ComputerVision
 
 class SnehalKhandare(nn.Researcher, nn.Engineer):
-    def _init_(self):
-        super()._init_()
+    def __init__(self):
+        super().__init__()
         self.expertise = {
             'ai_ml': ['Deep Learning', 'NLP', 'Computer Vision', 'MLOps'],
             'backend': ['Python', 'Node.js', 'Microservices', 'Distributed Systems'],
@@ -101,7 +93,7 @@ class SnehalKhandare(nn.Researcher, nn.Engineer):
         solution = self.apply_ai(challenge) + self.engineering_mindset(challenge)
         return f"Innovative solution with {solution.efficiency}% optimization"
     
-    def _str_(self):
+    def __str__(self):
         return f"🤖 AI Researcher | 💻 Systems Builder | 📖 Story Weaver"
 
 # Initialize the neural network
@@ -114,3 +106,14 @@ print(snehal)
 >>> Status: Always learning, always building 🚀
 >>> Mission: Bridging AI capabilities with real-world applications
 >>> 🤖 AI Researcher | 💻 Systems Builder | 📖 Story Weaver
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehal6542&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>💡 "Building the future, one algorithm at a time"</i>
+</p>
