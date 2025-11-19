@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hi, I'm Snehal Khandare</h1>
-<h3 align="center">AI/ML Researcher • Data Scientist • Storyteller</h3>
+<div align="center">
+  
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Snehal%20Khandare&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=AI/ML%20Researcher%20•%20Data%20Scientist%20•%20Storyteller&descAlignY=55&descSize=20" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Neural+Networks+meet+Narratives+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+  <!-- Animated Typing Text with Multiple Lines -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Neural+Networks+meet+Narratives+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%A4%96;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -110,10 +113,38 @@ print(snehal)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snehal6542&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>💡 "Building the future, one algorithm at a time"</i>
-</p>
+  <!-- Activity Graph with Gradient -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehal6542&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area_color=00F5D4&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph"/>
+
+  <br><br>
+
+  <!-- Snake Animation eating contributions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snehal6542/Snehal6542/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snehal6542/Snehal6542/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Snehal6542/Snehal6542/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br><br>
+
+  <!-- Profile Views Counter with Animation -->
+  <img src="https://komarev.com/ghpvc/?username=Snehal6542&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views" />
+  
+  <br><br>
+
+  <!-- Animated Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building%20the%20future,%20one%20algorithm%20at%20a%20time&author=Snehal%20Khandare&animation=grow_out_in" alt="Quote"/>
+
+  <br><br>
+
+  <!-- Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Snehal6542&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophy"/>
+
+  <br><br>
+
+  <!-- Animated Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="footer"/>
+
+</div>
